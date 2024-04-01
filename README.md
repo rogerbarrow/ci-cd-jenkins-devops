@@ -12,4 +12,8 @@
  # download Java, 
  * ![image](https://github.com/rogerbarrow/ci-cd-jenkins-devops/assets/46138186/20292f84-58d3-49d3-bbd3-522140aa4222)
 
+   #Verify that Inbound Traffic rule on your EC2 Instance 
+* ![image](https://github.com/rogerbarrow/ci-cd-jenkins-devops/assets/46138186/37b902bf-544e-414e-bb88-33dd1206773a)
+
+* ![image](https://github.com/rogerbarrow/ci-cd-jenkins-devops/assets/46138186/1008c4a2-a337-4340-9e63-dfa266d82d8e)
 
