@@ -9,5 +9,7 @@
 
   * run sudo apt upgrade
   * ![image](https://github.com/rogerbarrow/ci-cd-jenkins-devops/assets/46138186/0026e4e4-6d26-48db-92f6-8c3e5f39214e)
- # download Java, today we will be download Java 17
+ # download Java, 
+ * ![image](https://github.com/rogerbarrow/ci-cd-jenkins-devops/assets/46138186/20292f84-58d3-49d3-bbd3-522140aa4222)
+
 
